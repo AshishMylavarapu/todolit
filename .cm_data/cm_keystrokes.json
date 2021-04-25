@@ -1,0 +1,1320 @@
+{
+    "todo.html": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:25:30",
+            "keyStrokeInfo": " ",
+            "position": "44,65"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:25:30",
+            "keyStrokeInfo": "deletedlist: [],",
+            "position": "44,66"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:25:59",
+            "keyStrokeInfo": "\r\n          ",
+            "position": "48,51"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:00",
+            "keyStrokeInfo": "var delet = localStorage.getItem(\"deletedlist\");\r\n        var deleted = JSON.parse(delet);",
+            "position": "49,11"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:04",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "50,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:12",
+            "keyStrokeInfo": "",
+            "position": "51,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:14",
+            "keyStrokeInfo": "          ",
+            "position": "51,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:15",
+            "keyStrokeInfo": "  ",
+            "position": "51,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:16",
+            "keyStrokeInfo": "",
+            "position": "51,11"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:17",
+            "keyStrokeInfo": "const list=JSON.parse(li);",
+            "position": "51,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:17",
+            "keyStrokeInfo": "        ",
+            "position": "51,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:28",
+            "keyStrokeInfo": " ",
+            "position": "52,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:29",
+            "keyStrokeInfo": "&",
+            "position": "52,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:29",
+            "keyStrokeInfo": "&",
+            "position": "52,25"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:32",
+            "keyStrokeInfo": "",
+            "position": "52,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:34",
+            "keyStrokeInfo": ")",
+            "position": "52,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:35",
+            "keyStrokeInfo": " ",
+            "position": "52,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:40",
+            "keyStrokeInfo": "l",
+            "position": "52,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:41",
+            "keyStrokeInfo": "i",
+            "position": "52,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:41",
+            "keyStrokeInfo": ".",
+            "position": "52,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:42",
+            "keyStrokeInfo": "l",
+            "position": "52,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:42",
+            "keyStrokeInfo": "e",
+            "position": "52,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:42",
+            "keyStrokeInfo": "length",
+            "position": "52,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:43",
+            "keyStrokeInfo": ">",
+            "position": "52,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:44",
+            "keyStrokeInfo": "0",
+            "position": "52,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:46",
+            "keyStrokeInfo": "s",
+            "position": "52,27"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:46",
+            "keyStrokeInfo": "",
+            "position": "52,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:47",
+            "keyStrokeInfo": "s",
+            "position": "52,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:47",
+            "keyStrokeInfo": "t",
+            "position": "52,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:26:48",
+            "keyStrokeInfo": "list",
+            "position": "52,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:27:29",
+            "keyStrokeInfo": "\r\n          ",
+            "position": "81,12"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 9,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:27:30",
+            "keyStrokeInfo": "else if ( list1 == null || list2.length == 0) {\r\n          // alert(\"hiii\");\r\n          // var l1 = this.state.list;\r\n          fetch(\"https://raw.githubusercontent.com/sricharan22/htmlques/master/tasks.html\")\r\n            .then(response => response.json())\r\n            .then(data => {\r\n              this.setState({ list: [...data], count: data.length });\r\n            });\r\n        }",
+            "position": "82,11"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:03",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "90,10"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:03",
+            "keyStrokeInfo": "if (cnt != null) {\r\n          this.setState({ count: parseInt(cnt), list: [...list2], deletedlist: [...deleted] });\r\n        }",
+            "position": "91,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:22",
+            "keyStrokeInfo": "",
+            "position": "80,15"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:30",
+            "keyStrokeInfo": "this.setState({ count: parseInt(c), list1: [...list] });",
+            "position": "92,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:35",
+            "keyStrokeInfo": "",
+            "position": "92,66"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:35",
+            "keyStrokeInfo": "",
+            "position": "92,65"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:35",
+            "keyStrokeInfo": "",
+            "position": "92,64"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:49",
+            "keyStrokeInfo": "",
+            "position": "91,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:49",
+            "keyStrokeInfo": "",
+            "position": "91,14"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:57",
+            "keyStrokeInfo": "",
+            "position": "82,25"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:57",
+            "keyStrokeInfo": "",
+            "position": "82,24"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:28:57",
+            "keyStrokeInfo": "",
+            "position": "82,23"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:02",
+            "keyStrokeInfo": "",
+            "position": "82,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:10",
+            "keyStrokeInfo": "1",
+            "position": "82,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:14",
+            "keyStrokeInfo": "",
+            "position": "82,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:18",
+            "keyStrokeInfo": "1",
+            "position": "88,35"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:51",
+            "keyStrokeInfo": "\r\n            ",
+            "position": "96,76"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:29:52",
+            "keyStrokeInfo": "localStorage.setItem(\"deletedlist\", JSON.stringify(this.state.deletedlist));",
+            "position": "97,13"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:21",
+            "keyStrokeInfo": "\r\n                        ",
+            "position": "154,106"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:22",
+            "keyStrokeInfo": "&emsp;<button onClick={this.handleClick} class =\"btn btn-info\" >Add Task</button>",
+            "position": "155,25"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:26",
+            "keyStrokeInfo": "",
+            "position": "155,96"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:26",
+            "keyStrokeInfo": "",
+            "position": "155,95"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:26",
+            "keyStrokeInfo": "",
+            "position": "155,94"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:27",
+            "keyStrokeInfo": "",
+            "position": "155,93"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:27",
+            "keyStrokeInfo": "",
+            "position": "155,92"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:27",
+            "keyStrokeInfo": "",
+            "position": "155,91"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:27",
+            "keyStrokeInfo": "",
+            "position": "155,90"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:27",
+            "keyStrokeInfo": "",
+            "position": "155,89"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:28",
+            "keyStrokeInfo": "R",
+            "position": "155,89"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:28",
+            "keyStrokeInfo": "e",
+            "position": "155,90"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:29",
+            "keyStrokeInfo": "c",
+            "position": "155,91"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:29",
+            "keyStrokeInfo": "y",
+            "position": "155,92"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:29",
+            "keyStrokeInfo": "c",
+            "position": "155,93"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:29",
+            "keyStrokeInfo": "l",
+            "position": "155,94"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:29",
+            "keyStrokeInfo": "e",
+            "position": "155,95"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:30",
+            "keyStrokeInfo": " ",
+            "position": "155,96"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:30",
+            "keyStrokeInfo": "b",
+            "position": "155,97"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:30",
+            "keyStrokeInfo": "i",
+            "position": "155,98"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:30:30",
+            "keyStrokeInfo": "n",
+            "position": "155,99"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:31:02",
+            "keyStrokeInfo": "{this.recyc}",
+            "position": "155,47"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:31:39",
+            "keyStrokeInfo": "",
+            "position": "161,44"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:31:42",
+            "keyStrokeInfo": "6",
+            "position": "161,44"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:11",
+            "keyStrokeInfo": "\r\n                                ",
+            "position": "190,38"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 9,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:12",
+            "keyStrokeInfo": "<td>\r\n                                  <button\r\n                                    onClick={this.handledelete}\r\n                                    class =\"btn btn-danger\"\r\n                                    value={index}\r\n                                  >\r\n                                    Delete\r\n                                  </button>\r\n                                </td>",
+            "position": "191,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:17",
+            "keyStrokeInfo": "R",
+            "position": "197,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:18",
+            "keyStrokeInfo": "e",
+            "position": "197,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:19",
+            "keyStrokeInfo": "c",
+            "position": "197,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:19",
+            "keyStrokeInfo": "y",
+            "position": "197,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:19",
+            "keyStrokeInfo": "c",
+            "position": "197,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:19",
+            "keyStrokeInfo": "l",
+            "position": "197,42"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:19",
+            "keyStrokeInfo": "e",
+            "position": "197,43"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:32:49",
+            "keyStrokeInfo": "this.recyclebin",
+            "position": "193,46"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:33:33",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "209,10"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:33:34",
+            "keyStrokeInfo": "recyc = () => {\r\n        ReactDOM.render(<Recycle />, document.querySelector(\"#todo\"));\r\n      };",
+            "position": "210,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:33:58",
+            "keyStrokeInfo": "\r\n      ",
+            "position": "212,9"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 17,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:33:59",
+            "keyStrokeInfo": "recyclebin = (event) => {\r\n\r\n        const list = [...this.state.list];\r\n        var x = list[event.target.value];\r\n        list.splice(Number(event.target.value), 1);\r\n        // console.log(list);\r\n        this.setState({ list: [...list], count: this.state.count - 1, deletedlist: [...this.state.deletedlist, x] }, this.bin);\r\n        // console.log(event.target.value);\r\n\r\n      };\r\n\r\n      bin = (event) => {\r\n        localStorage.setItem(\"list\", JSON.stringify(this.state.list));\r\n        localStorage.setItem(\"deletedlist\", JSON.stringify(this.state.deletedlist));\r\n        localStorage.setItem(\"count\", this.state.count);\r\n        ReactDOM.render(<Recycle />, document.querySelector(\"#todo\"));\r\n      };",
+            "position": "213,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:33:59",
+            "keyStrokeInfo": "",
+            "position": "215,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:34:08",
+            "keyStrokeInfo": "1",
+            "position": "215,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:34:18",
+            "keyStrokeInfo": "1",
+            "position": "219,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:34:36",
+            "keyStrokeInfo": "1",
+            "position": "225,60"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:34:48",
+            "keyStrokeInfo": "\r\n",
+            "position": "382,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:37:28",
+            "keyStrokeInfo": "",
+            "position": "220,67"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:37:40",
+            "keyStrokeInfo": "document.getElementById(\"#app\")",
+            "position": "220,38"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:38:00",
+            "keyStrokeInfo": "documentodo.querySelector(\"#t\")",
+            "position": "220,38"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:38:00",
+            "keyStrokeInfo": ".querySelector(\"#t",
+            "position": "220,49"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:38:01",
+            "keyStrokeInfo": "  ",
+            "position": "373,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:38:17",
+            "keyStrokeInfo": "document.getElementById(\"#app\")",
+            "position": "228,30"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:06",
+            "keyStrokeInfo": "\r\n                          ",
+            "position": "342,36"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 6,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:06",
+            "keyStrokeInfo": "<button\r\n                          onClick={this.sub}\r\n                          class =\"btn-info\"\r\n                          >\r\n                          Submit\r\n                          </button>",
+            "position": "343,27"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:40",
+            "keyStrokeInfo": "{this.mainpage}",
+            "position": "344,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:47",
+            "keyStrokeInfo": "M",
+            "position": "347,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:48",
+            "keyStrokeInfo": "a",
+            "position": "347,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:48",
+            "keyStrokeInfo": "i",
+            "position": "347,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:48",
+            "keyStrokeInfo": "n",
+            "position": "347,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:48",
+            "keyStrokeInfo": "p",
+            "position": "347,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:48",
+            "keyStrokeInfo": "a",
+            "position": "347,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:49",
+            "keyStrokeInfo": "g",
+            "position": "347,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:39:49",
+            "keyStrokeInfo": "e",
+            "position": "347,34"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:04",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "352,10"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 4,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:05",
+            "keyStrokeInfo": " mainpage = () => {\r\n        localStorage.setItem(\"list\", JSON.stringify(this.state.modifiedlist));\r\n        ReactDOM.render(<Todo />, document.querySelector(\"#todo\"));\r\n      };",
+            "position": "353,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:05",
+            "keyStrokeInfo": "        ",
+            "position": "353,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:24",
+            "keyStrokeInfo": "g",
+            "position": "355,44"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:24",
+            "keyStrokeInfo": "e",
+            "position": "355,45"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:25",
+            "keyStrokeInfo": "t",
+            "position": "355,46"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:25",
+            "keyStrokeInfo": "e",
+            "position": "355,47"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:26",
+            "keyStrokeInfo": "getElementById",
+            "position": "355,44"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:30",
+            "keyStrokeInfo": "",
+            "position": "355,62"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:30",
+            "keyStrokeInfo": "",
+            "position": "355,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:31",
+            "keyStrokeInfo": "a",
+            "position": "355,61"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:31",
+            "keyStrokeInfo": "p",
+            "position": "355,62"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:31",
+            "keyStrokeInfo": "p",
+            "position": "355,63"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:40:35",
+            "keyStrokeInfo": "s",
+            "position": "352,10"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:43",
+            "keyStrokeInfo": "",
+            "position": "354,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:44",
+            "keyStrokeInfo": "l",
+            "position": "354,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:44",
+            "keyStrokeInfo": "i",
+            "position": "354,65"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:45",
+            "keyStrokeInfo": "li",
+            "position": "354,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:53",
+            "keyStrokeInfo": "S",
+            "position": "355,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:54",
+            "keyStrokeInfo": "i",
+            "position": "355,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:54",
+            "keyStrokeInfo": "g",
+            "position": "355,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:54",
+            "keyStrokeInfo": "n",
+            "position": "355,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:54",
+            "keyStrokeInfo": "i",
+            "position": "355,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:41:54",
+            "keyStrokeInfo": "n",
+            "position": "355,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:42:06",
+            "keyStrokeInfo": "",
+            "position": "352,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:43:09",
+            "keyStrokeInfo": "\r\n      ",
+            "position": "384,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 94,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:43:10",
+            "keyStrokeInfo": "class Recycle extends React.Component {\r\n      constructor() {\r\n        super();\r\n        this.state = {\r\n          deleted: [],\r\n          temp: [],\r\n          cnt: 0\r\n        };\r\n      }\r\n\r\n      componentDidMount() {\r\n        const newlist = localStorage.getItem(\"deletedlist\");\r\n        const final = localStorage.getItem(\"list\");\r\n        const count1 = localStorage.getItem(\"count\");\r\n        const final2 = JSON.parse(final);\r\n        const list1 = JSON.parse(newlist);\r\n\r\n        this.setState({ deleted: [...list1], temp: [...final2], cnt: Number(count1) });\r\n\r\n        window.addEventListener(\"beforeunload\", () => {\r\n\r\n          localStorage.setItem(\"count\", this.state.cnt);\r\n          localStorage.setItem(\"list\", JSON.stringify(this.state.temp));\r\n          localStorage.setItem(\"deletedlist\", JSON.stringify(this.state.deleted));\r\n\r\n        });\r\n      }\r\n\r\n      render() {\r\n        return (\r\n          <div class=\"container\">\r\n            <div class=\"row\">\r\n              <div class=\"col-md-2\"></div>\r\n              <div class=\"col-md-8 mt-3\">\r\n                <center>\r\n                  <h1>DELETED TASKS</h1>\r\n                  <div>\r\n                    <table class=\"table table-bordered mt-5 table-hover table-dark table-striped\">\r\n                      <thead class=\"thead-dark\">\r\n                        <tr>\r\n                          <th colSpan=\"5\" ><center>DETAILS OF TASKS PENDING</center></th>\r\n                        </tr>\r\n                        <tr>\r\n                          <th><center>TASK</center></th>\r\n                          <th><center>SUBMISSION DATE</center></th>\r\n                          <th><center>DEADLINE</center></th>\r\n                          <th colSpan=\"3\"><center>OPERATIONS</center></th>\r\n                        </tr>\r\n                      </thead>\r\n\r\n                      <tbody>\r\n                        {this.state.deleted.map((ele, index) =>\r\n                          <tr key={index}>\r\n                            <td>{ele.task}</td>\r\n                            <td>{ele.date}</td>\r\n                            <td>{ele.time}</td>\r\n                            <td><center><button type=\"submit\" class=\"btn btn-warning\" onClick={this.deletetask} value={index} >Remove Task</button></center></td>\r\n                            <td><center><button type=\"submit\" class=\"btn btn-warning\" onClick={this.restoretask} value={index} >Restore Task</button></center></td>\r\n                          </tr>\r\n                        )}\r\n                      </tbody>\r\n                    </table>\r\n                  </div>\r\n                  <div><button type=\"submit\" class=\"btn btn-warning mt-1\" onClick={this.mainpage}>Redirect to main page</button></div>\r\n                </center>\r\n              </div>\r\n              <div class=\"col-md-2\"></div>\r\n            </div>\r\n          </div>\r\n        );\r\n      }\r\n\r\n      mainpage = () => {\r\n        localStorage.setItem(\"count\", this.state.cnt);\r\n        localStorage.setItem(\"list\", JSON.stringify(this.state.temp));\r\n        localStorage.setItem(\"deletedlist\", JSON.stringify(this.state.deleted));\r\n        ReactDOM.render(<Todo />, document.querySelector(\"#todo\"));\r\n      };\r\n\r\n      deletetask = (event) => {\r\n        const list = [...this.state.deleted];\r\n        list.splice(Number(event.target.value), 1);\r\n        this.setState({ deleted: [...list] })\r\n      };\r\n\r\n      restoretask = (event) => {\r\n        const list = [...this.state.deleted];\r\n        var x = list[event.target.value]\r\n        list.splice(Number(event.target.value), 1);\r\n        // console.log(list);\r\n        this.setState({ deleted: [...list], cnt: this.state.cnt + 1, temp: [...this.state.temp, x] });\r\n      }\r\n\r\n    }",
+            "position": "385,7"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:27",
+            "keyStrokeInfo": "\r\n        ",
+            "position": "461,68"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:28",
+            "keyStrokeInfo": "ReactDOM.render(<Signin />, document.getElementById(\"#app\"));",
+            "position": "462,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "461,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "461,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "461,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "461,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "461,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:45:34",
+            "keyStrokeInfo": "",
+            "position": "460,81"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:36",
+            "keyStrokeInfo": "",
+            "position": "211,48"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:36",
+            "keyStrokeInfo": "",
+            "position": "211,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:36",
+            "keyStrokeInfo": "g",
+            "position": "211,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:37",
+            "keyStrokeInfo": "e",
+            "position": "211,48"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:37",
+            "keyStrokeInfo": "t",
+            "position": "211,49"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:38",
+            "keyStrokeInfo": "getElementById",
+            "position": "211,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:41",
+            "keyStrokeInfo": "a",
+            "position": "211,64"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:41",
+            "keyStrokeInfo": "p",
+            "position": "211,65"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:48:42",
+            "keyStrokeInfo": "p",
+            "position": "211,66"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:52:27",
+            "keyStrokeInfo": "  ",
+            "position": "292,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:52:46",
+            "keyStrokeInfo": "",
+            "position": "294,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:54:09",
+            "keyStrokeInfo": " ",
+            "position": "283,22"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:00",
+            "keyStrokeInfo": "\r\n            ",
+            "position": "293,73"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:01",
+            "keyStrokeInfo": "localStorage.setItem(\"count\", this.state.count);",
+            "position": "294,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:19",
+            "keyStrokeInfo": " ",
+            "position": "274,45"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:20",
+            "keyStrokeInfo": "c",
+            "position": "274,46"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:20",
+            "keyStrokeInfo": "o",
+            "position": "274,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:21",
+            "keyStrokeInfo": "u",
+            "position": "274,48"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:21",
+            "keyStrokeInfo": "n",
+            "position": "274,49"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:21",
+            "keyStrokeInfo": "t",
+            "position": "274,50"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:21",
+            "keyStrokeInfo": ":",
+            "position": "274,51"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:22",
+            "keyStrokeInfo": "0",
+            "position": "274,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:22",
+            "keyStrokeInfo": ",",
+            "position": "274,53"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:33",
+            "keyStrokeInfo": "c",
+            "position": "291,54"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:33",
+            "keyStrokeInfo": "o",
+            "position": "291,55"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:34",
+            "keyStrokeInfo": "u",
+            "position": "291,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:34",
+            "keyStrokeInfo": "n",
+            "position": "291,57"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:34",
+            "keyStrokeInfo": "t",
+            "position": "291,58"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:35",
+            "keyStrokeInfo": ":",
+            "position": "291,59"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:35",
+            "keyStrokeInfo": "c",
+            "position": "291,60"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:56:36",
+            "keyStrokeInfo": ",",
+            "position": "291,61"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:58:32",
+            "keyStrokeInfo": "",
+            "position": "291,54"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:58:33",
+            "keyStrokeInfo": "",
+            "position": "274,45"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:58:45",
+            "keyStrokeInfo": "",
+            "position": "294,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:58:45",
+            "keyStrokeInfo": "",
+            "position": "293,73"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:58:46",
+            "keyStrokeInfo": "",
+            "position": "283,22"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:59:02",
+            "keyStrokeInfo": "\r\n            ",
+            "position": "293,73"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 12:59:02",
+            "keyStrokeInfo": "ReactDOM.render(<Signin />, document.getElementById(\"#app\"));",
+            "position": "294,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 13:04:01",
+            "keyStrokeInfo": "",
+            "position": "423,73"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 13:04:02",
+            "keyStrokeInfo": "",
+            "position": "423,72"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 13:04:06",
+            "keyStrokeInfo": "",
+            "position": "423,61"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 13:04:06",
+            "keyStrokeInfo": "",
+            "position": "423,60"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 13:07:51",
+            "keyStrokeInfo": "<table class=\"table table-bordered border border-dark border-4\">",
+            "position": "423,21"
+        }
+    ]
+}
