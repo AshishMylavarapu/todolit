@@ -1315,6 +1315,69 @@
             "keyStrokeTimeStamp": "Sun Apr 25 2021 13:07:51",
             "keyStrokeInfo": "<table class=\"table table-bordered border border-dark border-4\">",
             "position": "423,21"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:29",
+            "keyStrokeInfo": "https://raw.githubusercontent.com/AshishMylavarapu/question/master/todo.json",
+            "position": "85,26"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:37",
+            "keyStrokeInfo": "",
+            "position": "85,25"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:37",
+            "keyStrokeInfo": "",
+            "position": "85,24"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:37",
+            "keyStrokeInfo": "",
+            "position": "85,23"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:37",
+            "keyStrokeInfo": "",
+            "position": "85,22"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:38",
+            "keyStrokeInfo": "",
+            "position": "85,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:38",
+            "keyStrokeInfo": "",
+            "position": "85,20"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:38",
+            "keyStrokeInfo": "",
+            "position": "85,19"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun Apr 25 2021 22:56:38",
+            "keyStrokeInfo": "",
+            "position": "85,18"
         }
     ]
 }
