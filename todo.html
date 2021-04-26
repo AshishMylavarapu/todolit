@@ -69,7 +69,17 @@
                     c-=1;
                 }
                 else if(date==ele.date){
-                  if(currentday.getHours()+":"+currentday.getMinutes()>=ele.time){
+                  var H = currentday.getHours();
+                  if (H < 10) {
+                    H = "0" + H;
+                  }
+                  var M = currentday.getMinutes();
+                  if (M < 10) {
+                    M = "0" + M;
+                  }
+
+
+                  if(H+":"+M>=ele.time){
                     alert("time finished "+ ele.task+" is being delted");
                     list.splice(index,1);
                     c-=1;
